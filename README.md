@@ -51,18 +51,27 @@ Jupyter Notebook
 
 1. Clone the repository
 2. Navigate to the project folder
-   
+
+```bash
 cd Sentiment-Analysis
+```
 
 3. Install required libraries
 
+```bash
 pip install pandas numpy scikit-learn nltk wordcloud matplotlib seaborn jupyter
+```
 
 4. Start Jupyter Notebook
 
+```bash
 jupyter notebook
+```
 
 5. Open:
+
+```text
 Sentiment_Analysis.ipynb
+```
 
 Run the cells sequentially to reproduce the analysis and model results.
