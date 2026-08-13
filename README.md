@@ -53,13 +53,16 @@ Jupyter Notebook
 2. Navigate to the project folder
    
 cd Sentiment-Analysis
-4. Install required libraries
+
+3. Install required libraries
 
 pip install pandas numpy scikit-learn nltk wordcloud matplotlib seaborn jupyter
-5. Start Jupyter Notebook
+
+4. Start Jupyter Notebook
 
 jupyter notebook
-6. Open:
+
+5. Open:
 Sentiment_Analysis.ipynb
 
 Run the cells sequentially to reproduce the analysis and model results.
